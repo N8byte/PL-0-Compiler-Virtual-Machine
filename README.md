@@ -8,7 +8,7 @@ To run use ./a.out [input file]
 where input file is PL/0 source file.
 
 Output flags are:
-  -l  the lexeme list should be printed by “lex.c”
-  -s  the symbol table should be printed by “parser.c”
-  -a  the generated assembly code should be printed by “parser.c”
-  -v  the program execution trace should be printed by “vm.c”
+-l  the lexeme list should be printed by “lex.c”
+-s  the symbol table should be printed by “parser.c”
+-a  the generated assembly code should be printed by “parser.c”
+-v  the program execution trace should be printed by “vm.c”
