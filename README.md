@@ -5,7 +5,7 @@ To compile use command:
 gcc driver.c vm.c lex.c parser.c -lm
 
 To run use ./a.out [input file] [flags] 
-where input file is PL/0 source file.
+where input file is a PL/0 source file.
 
 Output flags are:
 
